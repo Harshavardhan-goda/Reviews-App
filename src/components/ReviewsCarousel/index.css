@@ -1,0 +1,31 @@
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 40px;
+  font-family: roboto;
+}
+.heading {
+  color: #ffffff;
+  text-align: center;
+}
+.inner-card {
+  display: flex;
+  justify-content: space-between;
+}
+.ul-card {
+  list-style-type: none;
+}
+.li-card {
+  text-align: center;
+}
+.user-name {
+  color: #ffffff;
+}
+.arrow-icon {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
